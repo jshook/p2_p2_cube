@@ -11,9 +11,9 @@ The initial version of this project is targeted at the prototype. A second itera
 
 ## Motivation
 
-This project has two main goals:
-1) Build an awesome blinky lights cube that is fun to program and play with.
-2) Showcase how awesome the Propeller 2 processor is in a very tangible and interactive way.  
+This project has 2 main goals:
+1) Learn how to program the P2 Processor in depth by building an awesome blinky lights cube that is fun to program and play with.
+2) Showcase how awesome the Propeller 2 processor is in a very tangible and interactive way. The P2 Procssor is a wonderful canvas that is just becoming available to second-wave adopters. There is nothing else like it.
 
 ## Community
 
