@@ -9,6 +9,8 @@ Interesting features of the P2 P2 Cube include:
 
 The initial version of this project is targeted at the prototype. A second iteration of the design will likely include an all-in-one PCB provided by Parallax.
 
+**NOTICE:** This project is a do-it-yourself project. Neither the project maintainers nor Parallax can take responsibility for what you build and what you do with it. There are *BRIGHT* lights, and *POWERFUL* batteries used in this project. Make sure that you take all the appropriate precautions during assembly and use. 
+
 ## Motivation
 
 This project has 2 main goals:

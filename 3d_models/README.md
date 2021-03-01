@@ -49,4 +49,8 @@ The face plate and PCB liners are offered in an alternate form above, where the 
 
 ![snap_joint_cap](snap_joint_cap.png)
 
-![snap_joint_cap_prusa](snap_joint_cap_prusa.png)
+![snap_joint_cap_prusa](snap_joint_cap_prusa.png) 
+
+#### [Magnet Joint Flange](magnet_joint_flange.stl)
+
+![magnet_joint_flange_prusa](magnet_joint_flange_prusa.png)
