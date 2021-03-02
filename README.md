@@ -20,7 +20,8 @@ This project has 2 main goals:
 ## Community
 
 - This project powered by the Propeller 2 early adopter community on the Parallax Propeller 2 message forums.
-- The LED panel drivers are provided by Stephen Morocco of IronSheep productions, which also provides the HUB75 adapter board.
+- Parallax has supported the project directly, even including PCB planning services.
+- The LED panel drivers are provided by Stephen Moroco of IronSheep productions, which also provides the HUB75 adapter board.
 
 ## Project Layout
 
