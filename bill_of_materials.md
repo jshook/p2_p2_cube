@@ -13,7 +13,7 @@ The P2 P2 Cube frame design is effectively complete. You can safely build it wit
 ### Materials
 
 - [1x This screw kit](https://www.amazon.com/gp/product/B07GKXMSVR) specifically. It is important not to deviate from the screws specified in the assembly instructions because of the tolerances on the Led panel PCBs.
-- [16x 6mm magnets](https://www.amazon.com/Multi-use-Refrigerator-Projects-Education-Magnetism/dp/B07D2F5XNN/) that are less than 2.7 mm thick.
+- [32x 6mm magnets](https://www.amazon.com/Multi-use-Refrigerator-Projects-Education-Magnetism/dp/B07D2F5XNN/) that are less than 2.7 mm thick.
 - [Thin CA glue with applicator tips](https://www.amazon.com/gp/product/B00C32ME6G/) - *NOT* gel or the kind that globs! You want the kind of glue that will soak into tiny spaces.
  
 ## The P2 P2 Wiring (prototype version)
